@@ -1,0 +1,25 @@
+<svg width="923" height="385" viewBox="0 0 923 385" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="923" height="385">
+<rect x="0.400024" y="0.303711" width="921.774" height="384.186" fill="url(#paint0_linear)"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M979.582 383.271H-40.007" stroke="#DBE2E7" stroke-linecap="square"/>
+<path d="M979.582 279.058H-40.007" stroke="#DBE2E7" stroke-linecap="square"/>
+<path d="M979.582 174.844H-40.007" stroke="#DBE2E7" stroke-linecap="square"/>
+<path d="M979.582 70.631H-40.007" stroke="#DBE2E7" stroke-linecap="square"/>
+<path d="M794.9 380.212V13.0484" stroke="#C1CAD0" stroke-linecap="square" stroke-dasharray="2 4"/>
+<path d="M665.9 381.495V127.731" stroke="#C1CAD0" stroke-linecap="square" stroke-dasharray="2 4"/>
+<path d="M536.9 380.212V179.19" stroke="#C1CAD0" stroke-linecap="square" stroke-dasharray="2 4"/>
+<path d="M407.9 380.212V86.5562" stroke="#C1CAD0" stroke-linecap="square" stroke-dasharray="2 4"/>
+<path d="M279.9 381.496V148.315" stroke="#C1CAD0" stroke-linecap="square" stroke-dasharray="2 4"/>
+<path d="M150.9 380.215V274.394" stroke="#C1CAD0" stroke-linecap="square" stroke-dasharray="2 4"/>
+<path d="M21.9 381.494V212.46" stroke="#C1CAD0" stroke-linecap="square" stroke-dasharray="2 4"/>
+<path d="M923.972 208.554C890.467 169.516 883.414 9.04687 784.664 9.04688C685.915 9.04688 652.41 208.554 592.455 208.554C532.5 208.554 481.362 84.8134 380.849 84.8134C280.336 84.8134 214.56 278.002 126.922 278.002C39.2827 278.002 28.172 176.296 -40.6 176.296" stroke="#C1CAD0" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 4"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="192.315" y1="214.996" x2="-23.85" y2="211.67" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-color="#C4C4C4" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
