@@ -508,7 +508,7 @@
     display: block;
 }
 .new_markets_slider{
-    height: 400px;
+    height: 100%;
     position: relative;
 }
 .new_markets_slider img{
