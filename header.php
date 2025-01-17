@@ -57,7 +57,7 @@
 
                                        
 
-                                        <li>
+                                        <!-- <li>
                                             <a href="./wired-earphone.php">
                                                Wired earphone
 
@@ -67,7 +67,7 @@
                                                         d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
                                                 </svg>
                                             </a>
-                                        </li>
+                                        </li> -->
 
                                         <li>
                                             <a href="./powerbank.php">

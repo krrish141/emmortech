@@ -137,7 +137,7 @@
 
 .circle_icon img {
 
-    width: 65px;
+    width: 55px;
 
 }
 
@@ -175,17 +175,23 @@
 }
 
 .new_funfact {
-    background-image: url(../img/new_bg_image.jpg);
-    padding: 70px 0px;
-    background-attachment: fixed;
-    background-size: cover;
-}
+ 
+        background-image: 
+            linear-gradient(to bottom, rgb(0 0 0 / 3%), rgb(0 0 0)), /* Black gradient overlay */
+            url(https://img.freepik.com/premium-photo/wireless-earbuds-charging-case-table_1009781-2903.jpg?w=740); /* Background image */
+        padding: 70px 0px;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center; /* Optional: centers the background image */
+    }
+    
+
 
 .grid_funFacts {
 
     display: grid;
 
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
 
     grid-gap: 40px;
 
@@ -946,4 +952,20 @@ top:0;
 
 .secondary {
     background: #28743c;
+}
+
+.funfact {
+    border: 10px solid #07a3ff;
+    border-radius: 50% !important;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+.text_blue2{
+    background: linear-gradient(to right, #008aed, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    font-size: 45px;
+  
 }

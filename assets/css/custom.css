@@ -39,10 +39,10 @@ h6 {
 
 p {
   font-family: 'Montserrat', sans-serif !important;;
-  font-size: 19px;
+  font-size: 17px;
   font-weight: 500;
   /* text-align: justify; */
-  color: #3a3a3a;
+  color: #000000;
 }
 
 .green {
@@ -53,8 +53,14 @@ p {
   color: #0097f0;
 }
 .text_blue {
-  color: #3281ff
-}
+    background: linear-gradient(to right, #008aed, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    font-size: 45px;
+   
+  }
+
 
 .mt_30 {
   margin-top: 30px;
@@ -86,7 +92,7 @@ p {
 }
 
 .logo_headers img {
-  width: 180px;
+  width: 220px;
 }
 
 .main_menus {
@@ -548,7 +554,7 @@ font-size: 16px;
 }
 
 .footer_bottom {
-  background: #2e8dff;
+  background: #002551;
   padding: 20px 0px 10px;
 }
 
@@ -684,7 +690,7 @@ font-size: 16px;
   padding: 80px 0px;
   position: relative;
   /* margin-top: 4rem; */
-  background: #ffffff  url(../img/background.svg) bottom right no-repeat;
+  background: #ffffff url(../img/about/about_us_bg.png) bottom right no-repeat;
 }
 
 .about_ikio3 h4 {

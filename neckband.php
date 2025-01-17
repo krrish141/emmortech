@@ -37,8 +37,8 @@ background-position: center;
         <div class="container">
             <div class="breadcumb_box">
                 <h4>Neckband products</h4>
-                <p>TWS earbuds offer wireless freedom, exceptional sound quality, and advanced features like noise
-                    cancellation and long-lasting battery life.
+                <p>Neckband earphones are lightweight, wireless audio devices designed to be worn around the neck,
+                    providing convenient hands-free listening with comfort and mobility.
                 </p>
             </div>
         </div>
@@ -55,12 +55,13 @@ background-position: center;
                     <div class="tab-pane fade  active show" id="pills-hometab1" role="tabpanel"
                         aria-labelledby="pills-hometab1-tab">
                         <div class="procut_innerwraps">
+
                             <div class="row mt-5 mb-5">
                                 <div class="col-md-6" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="product__leftSide">
-                                        <h5><span>BT655</span></h5>
+                                        <h5><span>IM- NB01</span></h5>
 
-                                        <h5><span>BT655 Specification:</span></h5>
+                                        <h5><span>IM- NB01 Specification:</span></h5>
                                         <p style="font-size: 17px;"><strong>Product: </strong> Sports Bluetooth Wireless
                                             Earbuds</p>
                                         <p style="font-size: 17px;"><strong>Bluetooth Version: </strong> V5.0</p>
@@ -130,9 +131,9 @@ background-position: center;
                                 <!-- Content Section -->
                                 <div class="col-md-6 order-md-2 order-1" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="product__leftSide">
-                                        <h5><span>BT655PRO</span></h5>
+                                        <h5><span>IM- NB02</span></h5>
 
-                                        <h5><span>BT655PRO Specification:</span></h5>
+                                        <h5><span>IM- NB02 Specification:</span></h5>
                                         <p style="font-size: 17px;"><strong>Chipset: </strong> QCC3034 aptX</p>
                                         <p style="font-size: 17px;"><strong>Fast Charge: </strong> 10 min = 15 Days</p>
                                         <p style="font-size: 17px;"><strong>Speaker Size: </strong> Φ10mm</p>
@@ -184,10 +185,10 @@ background-position: center;
                             <div class="row mt-5 mb-5">
                                 <div class="col-md-6" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="product__leftSide">
-                                        <h5><span>BT006 PRO PLUS</span></h5>
+                                        <h5><span>IM- NB03</span></h5>
 
-                                        <h5><span>BT006 PRO PLUS Specification:</span></h5>
-                                        <p style="font-size: 17px;"><strong>Model No.: </strong>BT006 PRO PLUS</p>
+                                        <h5><span>IM- NB03 Specification:</span></h5>
+                                        <p style="font-size: 17px;"><strong>Model No.: </strong>IM- NB03</p>
                                         <p style="font-size: 17px;"><strong>Chipset: </strong> QCC3024</p>
                                         <p style="font-size: 17px;"><strong>Speaker Size: </strong> Φ10mm</p>
                                         <p style="font-size: 17px;"><strong>Battery Capacity: </strong> 300mAh</p>
@@ -288,19 +289,15 @@ background-position: center;
                                                     <img src="./assets/img/product/neckband/product4.5.png" alt="">
                                                 </div>
                                             </div>
-
-
-
-
-
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="col-md-6 order-md-2 order-1" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="product__leftSide">
-                                        <h5><span>BT385</span></h5>
+                                        <h5><span>IM- NB04</span></h5>
 
-                                        <p style="font-size: 17px;"><strong>Model: </strong>BT385</p>
+                                        <p style="font-size: 17px;"><strong>Model: </strong>IM- NB04</p>
                                         <p style="font-size: 17px;"><strong>Product: </strong> Neckband Earphone</p>
                                         <p style="font-size: 17px;"><strong>Chipset: </strong> CSR8635</p>
                                         <p style="font-size: 17px;"><strong>Speaker Size: </strong> Φ10mm</p>
@@ -313,8 +310,6 @@ background-position: center;
                                             Comfortable</p>
                                         <p style="font-size: 17px;"><strong>Sound Quality: </strong> Rich Audio with
                                             Deep Bass</p>
-
-
 
                                     </div>
                                 </div>
@@ -335,12 +330,14 @@ background-position: center;
                                         <h5><span>TH-BT008 </span></h5>
 
                                         <h5><span>TH-BT008 Specification:</span></h5>
-                                        <p style="font-size:17px">1.Lightweight & Comfortable: Lightweight compared to other wireless models,
+                                        <p style="font-size:17px">1.Lightweight & Comfortable: Lightweight compared to
+                                            other wireless models,
                                             you’ll wear this wireless ear buds like a second skin; additional ear tips
                                             included in size S/M/L for a custom fit that ensures the Bluetooth earbuds
                                             are comfortable and sit securely in your ear.Built-in mic &
                                         </p>
-                                        <p style="font-size:17px">2.Volume Controls: Easily answer/end phone calls with built-in microphone and
+                                        <p style="font-size:17px">2.Volume Controls: Easily answer/end phone calls with
+                                            built-in microphone and
                                             control your music right from the Bluetooth headphones, skip/go back a track
                                             completely hands free from your device!</p>
 
@@ -379,21 +376,7 @@ background-position: center;
                                                     <img src="./assets/img/product/neckband/product5.6.png" alt="">
                                                 </div>
                                             </div>
-                                            <div class="item">
-                                                <div class="images__products">
-                                                    <img src="./assets/img/product/neckband/product5.7.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="item">
-                                                <div class="images__products">
-                                                    <img src="./assets/img/product/neckband/product5.8.png" alt="">
-                                                </div>
-                                            </div>
-                                            <div class="item">
-                                                <div class="images__products">
-                                                    <img src="./assets/img/product/neckband/product5.9.png" alt="">
-                                                </div>
-                                            </div>
+
 
 
 

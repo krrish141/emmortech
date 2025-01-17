@@ -42,9 +42,9 @@
                             <li> <img src="assets/img/arrow.png" alt="email" style="width:12px"> <a
                                     href="neckband.php">Neckband </a></li>
 
-                            <li> <img src="assets/img/arrow.png" alt="email" style="width:12px"> <a
+                            <!-- <li> <img src="assets/img/arrow.png" alt="email" style="width:12px"> <a
                                     href="wired-earphone.php"> Wired earphone 
-                                    </a></li>
+                                    </a></li> -->
 
                             <li> <img src="assets/img/arrow.png" alt="email" style="width:12px" wid=""> <a
                                     href="powerbank.php">Power bank</a></li>
@@ -82,10 +82,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <p>© 2025 IKIO Lighting. All Rights Reserved</p>
+                    <p>© 2025 Immortech Private Limited. All Rights Reserved</p>
                 </div>
                 <div class="col-md-6">
-                <p style="text-align: end;">Wesbite Design by <a href="" target="_blank"> Technobizzar </a></p>
+                <p style="text-align: end;">Wesbite Design by <a href="https://technobizzar.com/" target="_blank"  style="font-size: 18px;color:aqua"> Technobizzar </a></p>
                 </div>
             </div>
         </div>

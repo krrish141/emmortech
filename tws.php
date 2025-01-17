@@ -58,9 +58,9 @@ background-position: center;
                             <div class="row mt-5 mb-5">
                                 <div class="col-md-6" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="product__leftSide">
-                                        <h5><span>BTW98</span></h5>
+                                        <h5><span>IM- Buds01</span></h5>
 
-                                        <h5><span>BTW98 Specification:</span></h5>
+                                        <h5><span>IM- Buds01 Specification:</span></h5>
                                         <p style="font-size: 17px;"><strong>Support: </strong> BES WT230U</p>
                                         <p style="font-size: 17px;"><strong>AI Smart ENC Technology: </strong> Enhances
                                             sound quality with smart environmental noise cancellation.</p>
@@ -155,10 +155,10 @@ background-position: center;
                                 <!-- Content Section -->
                                 <div class="col-md-6 order-md-2 order-1" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="product__leftSide">
-                                        <h5><span>BTW99</span></h5>
+                                        <h5><span>IM- Buds02</span></h5>
 
-                                        <h5><span>BTW99 Specification:</span></h5>
-                                        <p style="font-size: 17px;"><strong>Model No.: </strong>BTW99</p>
+                                        <h5><span>IM- Buds02 Specification:</span></h5>
+                                        <p style="font-size: 17px;"><strong>Model No.: </strong>IM- Buds02</p>
                                         <p style="font-size: 17px;"><strong>Chipset: </strong>AB1562A</p>
                                         <p style="font-size: 17px;"><strong>Bluetooth: </strong>5.0, Profiles: HSP, HFP,
                                             A2DP, AVRCP</p>
@@ -225,10 +225,10 @@ background-position: center;
                             <div class="row mt-5 mb-5">
                                 <div class="col-md-6" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="product__leftSide">
-                                        <h5><span>BTW96</span></h5>
+                                        <h5><span>IM- Buds03</span></h5>
 
-                                        <h5><span>BTW96 Specification:</span></h5>
-                                        <p style="font-size: 17px;"><strong>Model No.: </strong>BTW96</p>
+                                        <h5><span>IM- Buds03 Specification:</span></h5>
+                                        <p style="font-size: 17px;"><strong>Model No.: </strong>IM- Buds03</p>
                                         <p style="font-size: 17px;"><strong>Chipset: </strong>AD6973D</p>
                                         <p style="font-size: 17px;"><strong>Bluetooth: </strong>5.1, Profiles: HFP, HSP,
                                             A2DP, AVRCP, SMP, AVCTP</p>
@@ -345,7 +345,7 @@ background-position: center;
                                 </div>
                                 <div class="col-md-6 order-md-2 order-1" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="product__leftSide">
-                                        <h5><span>TH-BTW91</span></h5>
+                                        <h5><span>IM- Buds04</span></h5>
                                         <p style="font-size: 17px;">Twin Wireless Ear-buds </p>
 
                                         <p style="font-size: 17px;"> Hall switch, automatic pairing.Airoha chipset,
@@ -386,9 +386,9 @@ background-position: center;
                             <div class="row mt-5 mb-5">
                                 <div class="col-md-6" data-aos="fade-right" data-aos-duration="1000">
                                     <div class="product__leftSide">
-                                        <h5><span>BTW28 </span></h5>
+                                        <h5><span>IM- Buds05 </span></h5>
 
-                                        <h5><span>BTW28 Specification:</span></h5>
+                                        <h5><span>IM- Buds05 Specification:</span></h5>
                                         <p style="font-size: 17px;"><strong>Chipset: </strong>Action 3015 / JL AC6973
                                         </p>
                                         <p style="font-size: 17px;"><strong>Bluetooth: </strong>5.0, Profiles: HSP, HFP,
