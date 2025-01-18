@@ -23,11 +23,11 @@
     <link rel="stylesheet" href="ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
 
     <style>
-        p{
-            font-size: 17px;
-    font-weight: 500;
-    text-align: justify;
-        }
+    p {
+        font-size: 17px;
+        font-weight: 500;
+        text-align: justify;
+    }
     </style>
 </head>
 
@@ -56,8 +56,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6" data-aos="fade-up" data-aos-duration="1000">
-                    <img src="./assets/img/logo.png" width="250" alt="">
-                    <h4><span class="text_blue">Immortech Private Limited</span>
+                    <!-- <img src="./assets/img/logo.png" width="250" alt=""> -->
+                    <h4><span class="text_blue" style="font-size:32px"> Immortech Private Limited</span>
                     </h4>
                     <p>we specialize in delivering world-class OEM (Original Equipment Manufacturer) and ODM (Original
                         Design Manufacturer) services for mobile accessories. With a steadfast commitment to innovation,
@@ -69,15 +69,203 @@
                 <div class="col-md-6" data-aos="fade-left" data-aos-duration="1000">
                     <div class="about_ikioImages">
                         <div class="Small_images">
-                            <img src="./assets/img/about.webp" alt="">
+                            <img src="./assets/img/about/ZNP03108.jpg" alt="">
                         </div>
                     </div>
                 </div>
-               
+
             </div>
         </div>
     </section>
     <!-- about end -->
+
+
+    <section class="career_section1">
+        <div class="circuit_bgRight">
+            <svg class="circuits" x="0px" y="0px" viewBox="0 0 91 448" xml:space="preserve">
+                <g id="circuit-left" transform="translate(92.128906, 524.812500)">
+                    <path class="circ-1"
+                        d="M-51.2-437.1c0,2.3,1.8,4.1,4.1,4.1s4.1-1.8,4.1-4.1c0-1.8-1.2-3.3-2.8-3.9v-24.2l-13.8-13.8V-502 c1.6-0.6,2.8-2.1,2.8-3.9c0-2.3-1.8-4.1-4.1-4.1s-4.1,1.8-4.1,4.1c0,1.8,1.2,3.3,2.8,3.9v24.2l13.8,13.8v23.1 C-50.1-440.4-51.2-438.9-51.2-437.1">
+                    </path>
+                    <path class="circ-2"
+                        d="M-59.7-112v-339.6l-13.5-13.7v-27.4l-11.2-11.4c0.3-0.5,0.4-1.1,0.4-1.8c0-2.3-1.8-4.1-4-4.1 c-2.2,0-4,1.8-4,4.1c0,2.3,1.8,4.1,4,4.1c0.6,0,1.2-0.2,1.7-0.4l10.4,10.6v27.4l13.5,13.7V-112c-1.6,0.6-2.7,2.1-2.7,3.9 c0,2.3,1.8,4.1,4,4.1s4-1.8,4-4.1C-57-109.9-58.1-111.4-59.7-112">
+                    </path>
+                    <path class="circ-3"
+                        d="M-17.8-475c1.6-0.6,2.8-2.1,2.8-3.9c0-2.3-1.8-4.1-4.1-4.1s-4.1,1.8-4.1,4.1 c0,1.8,1.2,3.3,2.8,3.9v159.7l-10.6,10.6c-0.5-0.3-1.1-0.4-1.8-0.4c-2.3,0-4.1,1.8-4.1,4.1c0,2.3,1.8,4.1,4.1,4.1s4.1-1.8,4.1-4.1 c0-0.6-0.2-1.2-0.4-1.8l11.4-11.4V-475z">
+                    </path>
+                    <path class="circ-4"
+                        d="M-2-272.9c0-2.3-1.8-4.1-4-4.1s-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.8v33.2 c-1.5,0.6-2.7,2.1-2.7,3.8c0,2.3,1.8,4.1,4,4.1s4-1.8,4-4.1c0-1.8-1.1-3.3-2.7-3.8v-33.2C-3.1-269.6-2-271.1-2-272.9">
+                    </path>
+                    <path class="circ-5"
+                        d="M-16-258.9c0-2.3-1.8-4.1-4-4.1s-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.9v116 c-1.5,0.6-2.7,2.1-2.7,3.9c0,2.3,1.8,4.1,4,4.1s4-1.8,4-4.1c0-1.8-1.1-3.3-2.7-3.9v-116C-17.1-255.6-16-257.1-16-258.9">
+                    </path>
+                    <path class="circ-6"
+                        d="M-31.6-181v-91.7l26.9-27.5V-489c1.6-0.6,2.7-2.1,2.7-3.9c0-2.3-1.8-4.1-4-4.1 c-2.2,0-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.9v187.8l-26.9,27.5v92.8c-1.6,0.6-2.7,2.1-2.7,3.9c0,2.3,1.8,4.1,4,4.1c2.2,0,4-1.8,4-4.1 C-28.9-178.9-30.1-180.4-31.6-181">
+                    </path>
+                    <path class="circ-7"
+                        d="M-70-437.9c0-2.3-1.8-4.1-4-4.1c-2.2,0-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.9v116 c-1.5,0.6-2.7,2.1-2.7,3.9c0,2.3,1.8,4.1,4,4.1c2.2,0,4-1.8,4-4.1c0-1.8-1.1-3.3-2.7-3.9v-116C-71.1-434.6-70-436.1-70-437.9">
+                    </path>
+                    <path class="circ-8"
+                        d="M-37-328.1c0,2.3,1.8,4.1,4,4.1s4-1.8,4-4.1c0-1.8-1.1-3.3-2.7-3.9v-61c1.5-0.6,2.7-2.1,2.7-3.9 c0-2.3-1.8-4.1-4-4.1s-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.9v61C-35.9-331.4-37-329.9-37-328.1">
+                    </path>
+                    <path class="circ-9"
+                        d="M-45.6-85v-324.7l13.5-13.7v-68.6l13.5-13.7V-516c1.6-0.6,2.7-2.1,2.7-3.9c0-2.3-1.8-4.1-4-4.1 c-2.2,0-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.9v9.3L-34.8-493v68.6l-13.5,13.7V-85c-1.6,0.6-2.7,2.1-2.7,3.9c0,2.3,1.8,4.1,4,4.1 c2.2,0,4-1.8,4-4.1C-42.9-82.9-44.1-84.4-45.6-85">
+                    </path>
+                </g>
+            </svg>
+        </div>
+        <div class="circuit_bgRightbottom">
+            <svg class="circuits" x="0px" y="0px" viewBox="0 0 91 448" xml:space="preserve">
+                <g id="circuit-left" transform="translate(92.128906, 524.812500)">
+                    <path class="circ-1"
+                        d="M-51.2-437.1c0,2.3,1.8,4.1,4.1,4.1s4.1-1.8,4.1-4.1c0-1.8-1.2-3.3-2.8-3.9v-24.2l-13.8-13.8V-502 c1.6-0.6,2.8-2.1,2.8-3.9c0-2.3-1.8-4.1-4.1-4.1s-4.1,1.8-4.1,4.1c0,1.8,1.2,3.3,2.8,3.9v24.2l13.8,13.8v23.1 C-50.1-440.4-51.2-438.9-51.2-437.1">
+                    </path>
+                    <path class="circ-2"
+                        d="M-59.7-112v-339.6l-13.5-13.7v-27.4l-11.2-11.4c0.3-0.5,0.4-1.1,0.4-1.8c0-2.3-1.8-4.1-4-4.1 c-2.2,0-4,1.8-4,4.1c0,2.3,1.8,4.1,4,4.1c0.6,0,1.2-0.2,1.7-0.4l10.4,10.6v27.4l13.5,13.7V-112c-1.6,0.6-2.7,2.1-2.7,3.9 c0,2.3,1.8,4.1,4,4.1s4-1.8,4-4.1C-57-109.9-58.1-111.4-59.7-112">
+                    </path>
+                    <path class="circ-3"
+                        d="M-17.8-475c1.6-0.6,2.8-2.1,2.8-3.9c0-2.3-1.8-4.1-4.1-4.1s-4.1,1.8-4.1,4.1 c0,1.8,1.2,3.3,2.8,3.9v159.7l-10.6,10.6c-0.5-0.3-1.1-0.4-1.8-0.4c-2.3,0-4.1,1.8-4.1,4.1c0,2.3,1.8,4.1,4.1,4.1s4.1-1.8,4.1-4.1 c0-0.6-0.2-1.2-0.4-1.8l11.4-11.4V-475z">
+                    </path>
+                    <path class="circ-4"
+                        d="M-2-272.9c0-2.3-1.8-4.1-4-4.1s-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.8v33.2 c-1.5,0.6-2.7,2.1-2.7,3.8c0,2.3,1.8,4.1,4,4.1s4-1.8,4-4.1c0-1.8-1.1-3.3-2.7-3.8v-33.2C-3.1-269.6-2-271.1-2-272.9">
+                    </path>
+                    <path class="circ-5"
+                        d="M-16-258.9c0-2.3-1.8-4.1-4-4.1s-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.9v116 c-1.5,0.6-2.7,2.1-2.7,3.9c0,2.3,1.8,4.1,4,4.1s4-1.8,4-4.1c0-1.8-1.1-3.3-2.7-3.9v-116C-17.1-255.6-16-257.1-16-258.9">
+                    </path>
+                    <path class="circ-6"
+                        d="M-31.6-181v-91.7l26.9-27.5V-489c1.6-0.6,2.7-2.1,2.7-3.9c0-2.3-1.8-4.1-4-4.1 c-2.2,0-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.9v187.8l-26.9,27.5v92.8c-1.6,0.6-2.7,2.1-2.7,3.9c0,2.3,1.8,4.1,4,4.1c2.2,0,4-1.8,4-4.1 C-28.9-178.9-30.1-180.4-31.6-181">
+                    </path>
+                    <path class="circ-7"
+                        d="M-70-437.9c0-2.3-1.8-4.1-4-4.1c-2.2,0-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.9v116 c-1.5,0.6-2.7,2.1-2.7,3.9c0,2.3,1.8,4.1,4,4.1c2.2,0,4-1.8,4-4.1c0-1.8-1.1-3.3-2.7-3.9v-116C-71.1-434.6-70-436.1-70-437.9">
+                    </path>
+                    <path class="circ-8"
+                        d="M-37-328.1c0,2.3,1.8,4.1,4,4.1s4-1.8,4-4.1c0-1.8-1.1-3.3-2.7-3.9v-61c1.5-0.6,2.7-2.1,2.7-3.9 c0-2.3-1.8-4.1-4-4.1s-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.9v61C-35.9-331.4-37-329.9-37-328.1">
+                    </path>
+                    <path class="circ-9"
+                        d="M-45.6-85v-324.7l13.5-13.7v-68.6l13.5-13.7V-516c1.6-0.6,2.7-2.1,2.7-3.9c0-2.3-1.8-4.1-4-4.1 c-2.2,0-4,1.8-4,4.1c0,1.8,1.1,3.3,2.7,3.9v9.3L-34.8-493v68.6l-13.5,13.7V-85c-1.6,0.6-2.7,2.1-2.7,3.9c0,2.3,1.8,4.1,4,4.1 c2.2,0,4-1.8,4-4.1C-42.9-82.9-44.1-84.4-45.6-85">
+                    </path>
+                </g>
+            </svg>
+        </div>
+        <div class="container">
+            <div class="short_title" data-aos="fade-up" data-aos-duration="1000">
+                <h6><span>More About us </span></h6>
+                <h4><span> Immortech Private Limited</span></h4>
+            </div>
+            <p class="text_titles" data-aos="fade-up" data-aos-duration="1000" style="font-size: 18px;">
+            Immortech Private Limited specializes in providing top-tier OEM and ODM services for mobile accessories. We are dedicated to innovation, quality, and reliable solutions for custom product development and manufacturing.
+            </p>
+            <div class="row">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="perk_plate">
+                        <div class="perk_title">
+                            <div class="perk_num perk_one">
+                                <h6>01.</h6>
+                            </div>
+                            <div class="perk_tit">
+                            Custom Product Development:
+                            </div>
+                        </div>
+                        <div class="perk_desc">
+                        Tailored solutions to design and manufacture mobile accessories.
+
+                        </div>
+                    </div>
+                    <div class="perk_plate">
+                        <div class="perk_title">
+                            <div class="perk_num perk_two">
+                                <h6>02.</h6>
+                            </div>
+                            <div class="perk_tit">
+                            OEM & ODM Services
+
+                            </div>
+                        </div>
+                        <div class="perk_desc">
+                        Expertise in both original equipment manufacturing and original design manufacturing.
+                        </div>
+                    </div>
+                    <div class="perk_plate">
+                        <div class="perk_title">
+                            <div class="perk_num perk_three">
+                                <h6>03.</h6>
+                            </div>
+                            <div class="perk_tit">
+                            TWS Production
+
+                            </div>
+                        </div>
+                        <div class="perk_desc">
+                        Manufacturing of high-quality True Wireless Stereo (TWS) earbuds</div>
+                    </div>
+
+                </div>
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1000">
+                    <div class="rell_Images">
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row pt_50">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1000">
+                    <div class="rell_Images " id="rell_imagesleft">
+
+                    </div>
+                </div>
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1000">
+                  
+                    <div class="perk_plate">
+                        <div class="perk_title">
+                            <div class="perk_num perk_foure">
+                                <h6>04.</h6>
+                            </div>
+                            <div class="perk_tit">
+                            Speakers Manufacturing
+
+                            </div>
+                        </div>
+                        <div class="perk_desc">
+                        Creation of portable and durable speakers for various needs.
+
+                        </div>
+                    </div>
+                   
+                    <div class="perk_plate">
+                        <div class="perk_title">
+                            <div class="perk_num perk_five">
+                                <h6>05.</h6>
+                            </div>
+                            <div class="perk_tit">
+                            Neckband Manufacturing:
+
+                            </div>
+                        </div>
+                        <div class="perk_desc">
+                        Expertise in crafting high-performance neckband-style earphones.
+                        </div>
+                    </div>
+
+                    <div class="perk_plate">
+                        <div class="perk_title">
+                            <div class="perk_num perk_two">
+                                <h6>06.</h6>
+                            </div>
+                            <div class="perk_tit">
+                            Charger & Powerbank
+
+                            </div>
+                        </div>
+                        <div class="perk_desc">
+                        Designing and producing efficient chargers and power banks for mobile devices.
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
 
     <!-- our vision/ mission start -->
     <section class="our_vission">
@@ -155,6 +343,7 @@
                 </div>
             </div>
         </div>
+
         <div class="circuit_bgRightbottom">
             <svg class="circuits" x="0px" y="0px" viewBox="0 0 91 448" xml:space="preserve">
                 <g id="circuit-left" transform="translate(92.128906, 524.812500)">
@@ -200,7 +389,11 @@
                 </div>
                 <div class="col-md-9">
                     <h5>
-                    We are Immortech, a leading Indian manufacturer specializing in cutting-edge mobile accessories. Proudly contributing to the 'Make in India' initiative, we leverage India's robust manufacturing ecosystem to provide our clients with top-quality, innovative solutions. Our commitment to excellence ensures that brands gain a competitive edge, allowing them to thrive in the global mobile accessories market.
+                        We are Immortech, a leading Indian manufacturer specializing in cutting-edge mobile accessories.
+                        Proudly contributing to the 'Make in India' initiative, we leverage India's robust manufacturing
+                        ecosystem to provide our clients with top-quality, innovative solutions. Our commitment to
+                        excellence ensures that brands gain a competitive edge, allowing them to thrive in the global
+                        mobile accessories market.
                     </h5>
                 </div>
             </div>

@@ -277,7 +277,7 @@
     width: 100%;
     z-index: -1;
     border-radius: 50%;
-    background: linear-gradient(299deg, #5EC02D 34%, #00925E 100%);
+    background: linear-gradient(299deg, #7ae1f2 34%, #0682cb 100%);
     clip-path: circle(50% at 50% 50%);
 }
 
@@ -314,7 +314,7 @@
     box-shadow: 0.05rem 0.05rem 0.1rem rgb(0 0 0 / 70%);
     cursor: pointer;
     transition: all 0.3s;
-    background: linear-gradient(198deg, #5EC02D 34%, #00925E 100%);
+    background: linear-gradient(198deg, #2373ac 34%, #6fd8ee 100%);
     display: flex;
     align-items: center;
     justify-content: center;
